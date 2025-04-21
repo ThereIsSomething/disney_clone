@@ -5,7 +5,8 @@ import Slider from './components/Slider';
 import ProductionHouse from './components/ProductionHouse';
 import GenreMovieList from './components/GenreMovieList';
 import Wishlist from './components/Wishlist';
-import { WishlistProvider } from './context/WishlistContext.jsx'; // Import WishlistProvider
+import About from './components/About'; // ✅ Import About
+import { WishlistProvider } from './context/WishlistContext.jsx';
 
 function App() {
     return (
@@ -22,6 +23,7 @@ function App() {
                             </>
                         } />
                         <Route path="/wishlist" element={<Wishlist />} />
+                        <Route path="/about" element={<About />} /> {/* ✅ Add About route */}
                     </Routes>
                 </div>
             </Router>
