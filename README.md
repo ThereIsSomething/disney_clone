@@ -1,6 +1,6 @@
 [![repo size](https://img.shields.io/github/repo-size/ThereIsSomething/books.svg)](https://github.com/ThereIsSomething/disney_clone/archive/refs/heads/master.zip) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://disney-thereissomething-nitish.vercel.app/) [![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://www.paypal.me/NBhambu)
 
-# 🎬 Movie Wishlist
+# 🎬 Disney +
 
 ## ✨ Curate your own personalized movie watchlist by [Nitish Kumar Bhambu](https://github.com/ThereIsSomething/disney_clone.git)
 
